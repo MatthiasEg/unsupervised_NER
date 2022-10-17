@@ -67,6 +67,6 @@ function microservices
 
 
 
-init
-fetch
+# init
+# fetch
 microservices
